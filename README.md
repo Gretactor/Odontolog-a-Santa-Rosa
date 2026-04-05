@@ -1,8 +1,3 @@
-![image alt](https://github.com/Gretactor/Odontolog-a-Santa-Rosa/blob/fe5dc657dc2b58d69378c17d681c6bc53a1ffe0b/public/antes.jpg.jpg)
-![image alt](https://github.com/Gretactor/Odontolog-a-Santa-Rosa/blob/f89ba7ddea7ddaa098e8a5112635508f458a58d7/public/despues.jpg.jpeg)
-![image alt](https://github.com/Gretactor/Odontolog-a-Santa-Rosa/blob/1d4a24ef9e41e5557bd5ba2b65ad54f77c3d4f55/public/antes1.jpg.jpg)
-![image alt](https://github.com/Gretactor/Odontolog-a-Santa-Rosa/blob/1a357ec9655ac2a1b6aeb028eb3740d4698f12fe/public/despues1.jpg.jpeg)
-![image alt](https://github.com/Gretactor/Odontolog-a-Santa-Rosa/blob/6bfccc0719219c5149068b8bab81295b60f1ddd9/public/dr-erique.jpg.jpg)
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
