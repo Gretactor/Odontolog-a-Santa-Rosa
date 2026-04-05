@@ -70,7 +70,7 @@ export function Hero() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/5] md:aspect-square lg:aspect-[4/5] bg-slate-100">
               <img 
-                src="/doctor.jpg?v=2" 
+                src="/doctor.jpg?v=3" 
                 alt="Dr. Julio Erique con paciente" 
                 className="w-full h-full object-cover object-center"
               />
@@ -187,7 +187,7 @@ export function BeforeAfter() {
               <div className="flex flex-col gap-4">
                 <div className="rounded-2xl overflow-hidden aspect-square relative bg-slate-800 shadow-lg">
                   <img 
-                    src="/antes.jpg?v=2" 
+                    src="/antes.jpg?v=3" 
                     alt="Antes del tratamiento 1" 
                     className="w-full h-full object-cover grayscale opacity-80"
                   />
@@ -197,7 +197,7 @@ export function BeforeAfter() {
                 </div>
                 <div className="rounded-2xl overflow-hidden aspect-square relative bg-slate-800 shadow-lg">
                   <img 
-                    src="/antes1.jpg?v=2" 
+                    src="/antes1.jpg?v=3" 
                     alt="Antes del tratamiento 2" 
                     className="w-full h-full object-cover grayscale opacity-80"
                   />
@@ -211,7 +211,7 @@ export function BeforeAfter() {
               <div className="flex flex-col gap-4">
                 <div className="rounded-2xl overflow-hidden aspect-square relative shadow-2xl shadow-brand-teal/20 border-2 border-brand-teal/30 bg-slate-800">
                   <img 
-                    src="/despues.jpg?v=2" 
+                    src="/despues.jpg?v=3" 
                     alt="Después del tratamiento 1" 
                     className="w-full h-full object-cover"
                   />
@@ -221,7 +221,7 @@ export function BeforeAfter() {
                 </div>
                 <div className="rounded-2xl overflow-hidden aspect-square relative shadow-2xl shadow-brand-teal/20 border-2 border-brand-teal/30 bg-slate-800">
                   <img 
-                    src="/despues1.jpg?v=2" 
+                    src="/despues1.jpg?v=3" 
                     alt="Después del tratamiento 2" 
                     className="w-full h-full object-cover"
                   />
