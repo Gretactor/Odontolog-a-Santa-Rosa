@@ -70,10 +70,9 @@ export function Hero() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/5] md:aspect-square lg:aspect-[4/5] bg-slate-100">
               <img 
-                src="/dr-erique.jpg" 
+                src="/doctor.jpg?v=2" 
                 alt="Dr. Julio Erique con paciente" 
                 className="w-full h-full object-cover object-center"
-                referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-brand-dark/80 via-transparent to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-8">
@@ -188,10 +187,9 @@ export function BeforeAfter() {
               <div className="flex flex-col gap-4">
                 <div className="rounded-2xl overflow-hidden aspect-square relative bg-slate-800 shadow-lg">
                   <img 
-                    src="/antes.jpg" 
+                    src="/antes.jpg?v=2" 
                     alt="Antes del tratamiento 1" 
                     className="w-full h-full object-cover grayscale opacity-80"
-                    referrerPolicy="no-referrer"
                   />
                   <div className="absolute top-4 left-4 bg-black/50 backdrop-blur-sm text-white px-3 py-1 rounded-full text-sm font-medium">
                     Antes
@@ -199,10 +197,9 @@ export function BeforeAfter() {
                 </div>
                 <div className="rounded-2xl overflow-hidden aspect-square relative bg-slate-800 shadow-lg">
                   <img 
-                    src="/antes1.jpg" 
+                    src="/antes1.jpg?v=2" 
                     alt="Antes del tratamiento 2" 
                     className="w-full h-full object-cover grayscale opacity-80"
-                    referrerPolicy="no-referrer"
                   />
                   <div className="absolute top-4 left-4 bg-black/50 backdrop-blur-sm text-white px-3 py-1 rounded-full text-sm font-medium">
                     Antes
@@ -214,10 +211,9 @@ export function BeforeAfter() {
               <div className="flex flex-col gap-4">
                 <div className="rounded-2xl overflow-hidden aspect-square relative shadow-2xl shadow-brand-teal/20 border-2 border-brand-teal/30 bg-slate-800">
                   <img 
-                    src="/despues.jpeg" 
+                    src="/despues.jpeg?v=2" 
                     alt="Después del tratamiento 1" 
                     className="w-full h-full object-cover"
-                    referrerPolicy="no-referrer"
                   />
                   <div className="absolute top-4 right-4 bg-brand-teal text-white px-3 py-1 rounded-full text-sm font-medium shadow-lg">
                     Después
@@ -225,10 +221,9 @@ export function BeforeAfter() {
                 </div>
                 <div className="rounded-2xl overflow-hidden aspect-square relative shadow-2xl shadow-brand-teal/20 border-2 border-brand-teal/30 bg-slate-800">
                   <img 
-                    src="/despues1.jpeg" 
+                    src="/despues1.jpeg?v=2" 
                     alt="Después del tratamiento 2" 
                     className="w-full h-full object-cover"
-                    referrerPolicy="no-referrer"
                   />
                   <div className="absolute top-4 right-4 bg-brand-teal text-white px-3 py-1 rounded-full text-sm font-medium shadow-lg">
                     Después
